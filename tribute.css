@@ -1,0 +1,30 @@
+
+.container {
+  background-color: #d3d3d3;
+  margin: 60px 100px 60px 100px;
+ -webkit-border-radius: 6px;
+ -moz-border-radius: 6px;
+  border-radius: 6px;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 500;
+  font-size: 40px;
+}
+
+h2 {
+  text-align: center;
+  font-weight: 400;
+  font-size: 30px;
+  font-style: italic;
+}
+
+.logo {
+    margin-left: 25%;
+    padding-bottom: 60px;
+}
+
+.logo img {
+   padding-bottom: 30px;
+}
