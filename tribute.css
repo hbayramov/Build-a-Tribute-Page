@@ -79,18 +79,17 @@ h1,h2,h3 {
 
 @media screen and (min-width: 1920px) {
   .logo {
-     margin-left: 20%;
+     margin-left: 37%;
    }
-
-  h3,.content {
-    margin-left: 30%;
+   h3,.content {
+    margin-left: 37%;
    }
   .quote, .about {
-     margin-left: 31.5%;
+     margin-left: 38.5%;
   }
 }
 
-@media screen and (max-width: 980px) {
+@media all and (max-width: 980px) {
   h1 {
      line-height: 1.2em;
   }
